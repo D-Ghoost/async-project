@@ -1,0 +1,15 @@
+{
+  "name": "async-project",
+  "version": "1.0.0",
+  "description": "Proyecto en la cual se practica el asincronismo en JS del Curso de Asíncronismo con JavaScript de platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
